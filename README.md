@@ -1,8 +1,14 @@
 # Classification of Emotions in Audio files through CNNs:
+
+
  
  **CNNs have proved to be quite efficient and excellent in Computer Vision and Image tasks,  along with transfer learning.**  
  **My main goal is to apply those pattern recognition properties of pretrained Image models, two detect emotions in 2D representation of Audio files, through *(Mel spectrogram, Chromagram , short-time Fourier transform).***
- ![img](https://miro.medium.com/max/782/1*rFhL3CYygk0gGlHOmlL_Jg.png)
+ 
+***
+ ![audio_classifier_img](https://i.ibb.co/GJjcnZP/1-7-Yb-BTqw-F2d-MAu-Qw-Or-D-h-XQ.png)
+ 
+***
  
  * **I used 5 pretrained image models, built an ensemble of the 5 models to achieve *third place in this competition, with a final score of 61.0835***
  *  **You can see my solution writeup, data preprocessing techniques,  and model training** [**here**](https://colab.research.google.com/drive/1iGp9QXtKr4-WaS6wpXdkAh4LHfurXeto?usp=sharing)
@@ -11,6 +17,12 @@
 ### Features to be built for Data preprocessing:
  
  * Here the Idea is to build a 3 channel Image representation of Audio files, where each channel represents a different  form of 2D representation of audio file.
+
+***
+ ![img](https://miro.medium.com/max/782/1*rFhL3CYygk0gGlHOmlL_Jg.png)
+ 
+***
+ 
  *  These three 2D representations will be:
 	 *  Mel spectrogram
 	 *  Chromagram
