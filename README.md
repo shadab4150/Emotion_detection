@@ -96,7 +96,7 @@
     * resnest50
     * efficientnet b0-b4.
 
-* There individual best scores varied from 57 to 59
+* There individual best scores varied from **57 to 59**
 * I tried making ensemble using different weights to 5 models, they didn't gave better results.
 * So for final submission and best score of **61.0835**. I simply took a mode of my best submissions of above 6 models.
 
