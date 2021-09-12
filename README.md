@@ -14,9 +14,9 @@
 ***
 | Task | Colab
 |---|---|
-| **`Colab Notebook for Data Processing : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iGp9QXtKr4-WaS6wpXdkAh4LHfurXeto?usp=sharing)|
-| **`Colab Notebook for Model Training : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbDsGVhMHo_u7gj33uj9TxIGftQeSCPM?usp=sharing)|
-| **`Colab Notebook for Model Inference (Prediction) : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eohYG8gAzRi_6cvMHJ9B9xZ1xyMBcD_P?usp=sharing)|
+| **`Data Processing : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iGp9QXtKr4-WaS6wpXdkAh4LHfurXeto?usp=sharing)|
+| **`Model Training : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbDsGVhMHo_u7gj33uj9TxIGftQeSCPM?usp=sharing)|
+| **`Model Inference (Prediction) : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eohYG8gAzRi_6cvMHJ9B9xZ1xyMBcD_P?usp=sharing)|
 
 
 
