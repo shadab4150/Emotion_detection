@@ -17,6 +17,8 @@
 	 *  Short-time Fourier transform
 * Librosa has a great library for these feature processing. [Librosa lib](https://librosa.org/doc/latest/tutorial.html)
 
+![specs_img](https://i.ibb.co/MM7PGpn/audio-specs.png)
+
 ### Miscellaneous features : (Good to have)
 * Since I will be using transfer learning, It will much better if we can use pre-trained model that was trained  on audio related tasks, *e.g. We can train our model firstly on our audio dataset in a semi-supervised way* then we can train on our downstream task as a classifier.
 
@@ -65,7 +67,7 @@
 * Choose fastai instead of traditional core pytorch. And changed fastai's codes were needed. 
 
 * Experimented with 6 models architectures. 
-    * resnet50
+    * resnest50
     * efficientnet b0-b4.
 
 * There individual best scores varied from 57 to 59
