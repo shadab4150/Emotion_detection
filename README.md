@@ -6,7 +6,7 @@
  **My main goal is to apply those pattern recognition properties of pretrained Image models, two detect emotions in 2D representation of Audio files, through *(Mel spectrogram, Chromagram , short-time Fourier transform).***
  
 ***
- ![audio_classifier_img](https://i.ibb.co/GJjcnZP/1-7-Yb-BTqw-F2d-MAu-Qw-Or-D-h-XQ.png)
+ ![audio_classifier_img](https://miro.medium.com/max/1400/1*-5u1LG7fKmIwl2pSuJeSuA.jpeg)
  
 
 ## My Notebooks
