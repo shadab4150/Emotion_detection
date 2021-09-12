@@ -18,7 +18,9 @@
 | **`Model Training : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbDsGVhMHo_u7gj33uj9TxIGftQeSCPM?usp=sharing)|
 | **`Model Inference (Prediction) : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eohYG8gAzRi_6cvMHJ9B9xZ1xyMBcD_P?usp=sharing)|
 
- 
+### Prediction Notebook SnapShot
+![prediction_img](https://i.ibb.co/DCFDVK2/inference-emotion.png)
+
 ***
  
  * **I used 5 pretrained image models, built an ensemble of the 5 models to achieve *third place in this competition, with a final score of 61.0835***
